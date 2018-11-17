@@ -1,0 +1,11 @@
+.group {
+    margin: 32px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.latest_value > div {
+    margin: 4px;
+}
